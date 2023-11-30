@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shannon Van Hoff</h1>
 <h3 align="center">Full stack developer| DevOps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shannonvanhoff" alt="shannonvanhoff" /></a> </p>
 
 - 🌱**I am currently immersed in DevOps leveraging a stack that includes Jenkins for continuous integration, Docker and Kubernetes for container orchestration, Ansible for configuration management, and Terraform for infrastructure as code**
 
